@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Beegood-b Blog # the main title
+title: Artjoms Bugajenkovs # the main title
 
 tagline: Passionate Web Developer # it will display as the subtitle
 
@@ -28,8 +28,8 @@ url: "https://beegood-b.github.io"
 github:
   username: Beegood-b # change to your GitHub username
 
-twitter:
-  username: Artemka_bigud # change to your Twitter username
+linkedin:
+  username: https://www.linkedin.com/in/artjoms-bugajenkovs/ # change to your Twitter username
 
 social:
   # Change to your full name.
